@@ -1,0 +1,14 @@
+SOC Incident Report
+
+Date: 2026-04-01
+
+Summary:
+Suspicious login activity detected from IP address 192.168.1.10.
+
+Findings:
+- 4 consecutive failed login attempts detected
+- Pattern indicates possible brute-force attack
+
+Recommendation:
+- Block the IP address
+- Monitor for repeated attempts
